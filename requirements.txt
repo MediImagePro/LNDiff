@@ -1,0 +1,35 @@
+# Core Deep Learning
+torch>=1.9.0
+torchvision>=0.10.0
+timm>=0.4.12
+
+# Data Processing
+pandas>=1.1.0
+numpy>=1.19.0
+scikit-learn>=0.24.0
+scipy>=1.5.0
+
+# Image Processing
+Pillow>=8.0.0
+opencv-python>=4.5.0
+scikit-image>=0.18.0
+
+# Visualization
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# GradCAM
+pytorch-grad-cam>=1.3.0
+
+# Utilities
+tqdm>=4.50.0
+pyyaml>=5.3.0
+
+# DICOM Support (for frame extraction)
+pydicom>=2.0.0
+
+# Optional: For .safetensors support
+safetensors>=0.3.0
+
+# Optional: For CSV encoding detection
+chardet>=4.0.0
