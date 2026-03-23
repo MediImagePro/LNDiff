@@ -101,13 +101,6 @@ See `data/README.md` for details.
 - Sensitivity
 - Specificity
 
-## Output
-
-Results saved in checkpoint directory:
-- `best_model.pth` - Model weights
-- `checkpoint.pth` - Full checkpoint (for resuming)
-- `summary.json` - Mean metrics across folds
-
 ## References
 
 - Swin Transformer: [arXiv:2105.01601](https://arxiv.org/abs/2105.01601)
